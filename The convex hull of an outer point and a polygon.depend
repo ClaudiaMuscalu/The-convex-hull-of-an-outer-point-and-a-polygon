@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1576419603 source:c:\users\claudia\desktop\proiect_geo\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
+1581325214 source:c:\users\asus\desktop\proiect_geo-20200304t213804z-001\proiect_geo\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
